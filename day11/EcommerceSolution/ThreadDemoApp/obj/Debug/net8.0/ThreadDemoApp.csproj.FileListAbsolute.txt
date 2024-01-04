@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.AssemblyInfo.cs
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.sourcelink.json
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.exe
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.deps.json
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.runtimeconfig.json
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.dll
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.pdb
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.dll
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\ThreadDemoApp\obj\Debug\net8.0\refint\ThreadDemoApp.dll
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.pdb
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.genruntimeconfig.cache
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\ThreadDemoApp\obj\Debug\net8.0\ref\ThreadDemoApp.dll

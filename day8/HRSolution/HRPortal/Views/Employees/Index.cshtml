@@ -1,0 +1,16 @@
+﻿@using HRPortal.Models;
+
+@{
+    ViewData["Title"] = "Existing Employees Page";
+}
+
+<div>
+    <ol>
+        @{
+            List<Employee> employees = (List<Employee>) ViewData["employees"];
+            @foreach(Employee emp in employees){
+                <li>@emp.Name</li>
+            }
+        }
+    </ol>
+</div>

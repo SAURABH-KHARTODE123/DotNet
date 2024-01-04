@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\dotnet\day5\OrderSolution\Explicit interface inheritance\obj\Debug\net8.0\Explicit interface inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\dotnet\day5\OrderSolution\Explicit interface inheritance\obj\Debug\net8.0\Explicit interface inheritance.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\dotnet\day5\OrderSolution\Explicit interface inheritance\obj\Debug\net8.0\Explicit interface inheritance.AssemblyInfo.cs
+C:\Users\IET\Desktop\dotnet\day5\OrderSolution\Explicit interface inheritance\obj\Debug\net8.0\Explicit interface inheritance.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\dotnet\day5\OrderSolution\Explicit interface inheritance\obj\Debug\net8.0\Explicit interface inheritance.sourcelink.json
+C:\Users\IET\Desktop\dotnet\day5\OrderSolution\Explicit interface inheritance\bin\Debug\net8.0\Explicit interface inheritance.exe
+C:\Users\IET\Desktop\dotnet\day5\OrderSolution\Explicit interface inheritance\bin\Debug\net8.0\Explicit interface inheritance.deps.json
+C:\Users\IET\Desktop\dotnet\day5\OrderSolution\Explicit interface inheritance\bin\Debug\net8.0\Explicit interface inheritance.runtimeconfig.json
+C:\Users\IET\Desktop\dotnet\day5\OrderSolution\Explicit interface inheritance\bin\Debug\net8.0\Explicit interface inheritance.dll
+C:\Users\IET\Desktop\dotnet\day5\OrderSolution\Explicit interface inheritance\bin\Debug\net8.0\Explicit interface inheritance.pdb
+C:\Users\IET\Desktop\dotnet\day5\OrderSolution\Explicit interface inheritance\obj\Debug\net8.0\Explicit interface inheritance.dll
+C:\Users\IET\Desktop\dotnet\day5\OrderSolution\Explicit interface inheritance\obj\Debug\net8.0\refint\Explicit interface inheritance.dll
+C:\Users\IET\Desktop\dotnet\day5\OrderSolution\Explicit interface inheritance\obj\Debug\net8.0\Explicit interface inheritance.pdb
+C:\Users\IET\Desktop\dotnet\day5\OrderSolution\Explicit interface inheritance\obj\Debug\net8.0\Explicit interface inheritance.genruntimeconfig.cache
+C:\Users\IET\Desktop\dotnet\day5\OrderSolution\Explicit interface inheritance\obj\Debug\net8.0\ref\Explicit interface inheritance.dll

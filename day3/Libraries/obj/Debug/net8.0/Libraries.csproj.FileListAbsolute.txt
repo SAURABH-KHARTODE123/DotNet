@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\dotnet\day3\Libraries\bin\Debug\net8.0\Libraries.deps.json
+C:\Users\IET\Desktop\dotnet\day3\Libraries\bin\Debug\net8.0\Libraries.dll
+C:\Users\IET\Desktop\dotnet\day3\Libraries\bin\Debug\net8.0\Libraries.pdb
+C:\Users\IET\Desktop\dotnet\day3\Libraries\obj\Debug\net8.0\Libraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\dotnet\day3\Libraries\obj\Debug\net8.0\Libraries.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\dotnet\day3\Libraries\obj\Debug\net8.0\Libraries.AssemblyInfo.cs
+C:\Users\IET\Desktop\dotnet\day3\Libraries\obj\Debug\net8.0\Libraries.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\dotnet\day3\Libraries\obj\Debug\net8.0\Libraries.sourcelink.json
+C:\Users\IET\Desktop\dotnet\day3\Libraries\obj\Debug\net8.0\Libraries.dll
+C:\Users\IET\Desktop\dotnet\day3\Libraries\obj\Debug\net8.0\refint\Libraries.dll
+C:\Users\IET\Desktop\dotnet\day3\Libraries\obj\Debug\net8.0\Libraries.pdb
+C:\Users\IET\Desktop\dotnet\day3\Libraries\obj\Debug\net8.0\ref\Libraries.dll

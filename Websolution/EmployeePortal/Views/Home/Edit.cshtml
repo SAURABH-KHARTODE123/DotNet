@@ -1,0 +1,19 @@
+﻿@using EmployeePortal.BOL;
+@using BLL;
+@using System.Collections.Generic;
+@{
+    ViewData["Title"] = "Insert ";
+}
+
+
+<div>
+    <form method="post">
+        @{
+            <label>Id <input type="number" name="id" value="@Model.Id" readonly /></label>
+            <label>Name <input type="text" name="Name" value="@Model.Name" /></label>
+            <label>Salary <input type="number" name="Salary" value="@Model.Salary" /></label>
+            <label>Gender <input type="text" name="Gender" value="@Model.Gender" /></label>
+            <input type="submit" name="btn" />
+        }
+    </form>
+</div>

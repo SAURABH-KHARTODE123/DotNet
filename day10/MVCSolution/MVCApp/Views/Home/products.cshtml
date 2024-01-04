@@ -1,0 +1,36 @@
+﻿@using BOL;
+@using System.Collections.Generic;
+
+@{
+    ViewData["Title"] = "Products Page";
+}
+
+<div class="text-center">
+    <!-- <form action="Edit"> -->
+    <table border="2">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        @{
+            
+            List<Product> products = (List<Product>) ViewData["products"];
+            @foreach(Product p in products){
+                <tbody>
+                <tr>
+                <td> @p.ProductId </td>
+                <td> @p.Title </td>
+                <td><a href="Edit/@p.ProductId" name="ProductId"value="@p.ProductId">Edit</a>|<a href="Insert/@p.ProductId" name="ProductId"value="@p.ProductId">Insert</a>|<a href="Delete/@p.ProductId" name="ProductId"value="@p.ProductId">Delete</a></td>
+                </tr>
+                </tbody>
+            }
+            
+        }
+        
+    
+    </table>
+    <!-- </form> -->
+</div>

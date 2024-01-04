@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\MultiThreadApp\obj\Debug\net8.0\MultiThreadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\MultiThreadApp\obj\Debug\net8.0\MultiThreadApp.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\MultiThreadApp\obj\Debug\net8.0\MultiThreadApp.AssemblyInfo.cs
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\MultiThreadApp\obj\Debug\net8.0\MultiThreadApp.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\MultiThreadApp\obj\Debug\net8.0\MultiThreadApp.sourcelink.json
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\MultiThreadApp\bin\Debug\net8.0\MultiThreadApp.exe
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\MultiThreadApp\bin\Debug\net8.0\MultiThreadApp.deps.json
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\MultiThreadApp\bin\Debug\net8.0\MultiThreadApp.runtimeconfig.json
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\MultiThreadApp\bin\Debug\net8.0\MultiThreadApp.dll
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\MultiThreadApp\bin\Debug\net8.0\MultiThreadApp.pdb
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\MultiThreadApp\obj\Debug\net8.0\MultiThreadApp.dll
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\MultiThreadApp\obj\Debug\net8.0\refint\MultiThreadApp.dll
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\MultiThreadApp\obj\Debug\net8.0\MultiThreadApp.pdb
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\MultiThreadApp\obj\Debug\net8.0\MultiThreadApp.genruntimeconfig.cache
+C:\Users\IET\Desktop\dotnet\day11\EcommerceSolution\MultiThreadApp\obj\Debug\net8.0\ref\MultiThreadApp.dll

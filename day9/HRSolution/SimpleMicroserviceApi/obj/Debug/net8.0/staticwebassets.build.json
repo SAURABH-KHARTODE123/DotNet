@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9QYBclSZn6miyx4f3C+bZmvT37k/rzZ4MJcPL3d7VJc=",
+  "Source": "SimpleMicroserviceApi",
+  "BasePath": "_content/SimpleMicroserviceApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

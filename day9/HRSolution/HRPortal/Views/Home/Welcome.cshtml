@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Welcome Page";
+}
+
+<div style="display: 'flex'; justify-content: 'center'; align-items: 'center'">
+    <ol>
+        @{
+            List<string> students = (List<string>)ViewData["students"];
+            @foreach(var student in students){
+                <li>@student</li>
+            }
+        }
+    
+    </ol>
+
+</div>
